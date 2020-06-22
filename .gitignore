@@ -1,0 +1,7 @@
+# filepath of dataset, individually for everyone
+filepath.py
+.ipynb_checkpoints/
+20161101-current_content-part1-12-1728.csv
+__pycache__/
+/metrics/stop-word-list.txt
+/metrics/getArticleRevs.py
