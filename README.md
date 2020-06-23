@@ -44,7 +44,7 @@ Submit the issue to GitLab if you find one, and feel free to submit pull request
 *  @bheibel 
 *  @fkramer 
 *  @rlafraie 
-*  @vibhav 
+*  @vibhav13 
 
 ## Special Thanks
 
